@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "OptionComponent3",
+  name: "ComputedComponent",
 
   // component 상태값이 변하면 자동으로 계산해서 출력하는 함수 정의 옵션
   computed: {

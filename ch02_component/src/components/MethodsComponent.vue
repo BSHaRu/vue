@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "OptionComponent2",
+  name: "MethodsComponent",
 
   // 이벤트 또는 로직 처리를 위한 함수 선언 옵션
   methods: {

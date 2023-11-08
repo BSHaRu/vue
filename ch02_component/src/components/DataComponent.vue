@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "OptionComponent",
+  name: "DataComponent",
 
   // component에서 사용할 데이터(상태 값) 선언 속성
   data(){
