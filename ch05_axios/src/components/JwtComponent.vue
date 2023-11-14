@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h4>Axios 실습</h4>
+  <h4>JWT 실습</h4>
 </template>
 
 <style scoped>
